@@ -24,3 +24,9 @@ Requirements:
 Python 3.x, 
 Turtle module (usually included in standard Python installations)
 
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
